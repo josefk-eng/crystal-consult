@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/crystal-consult/static/css/main.a6d1e505.css",
+    "main.js": "/crystal-consult/static/js/main.9b4d425f.js",
+    "static/media/generator.png": "/crystal-consult/static/media/generator.0454447dfe86d8220a11.png",
+    "static/media/consult.png": "/crystal-consult/static/media/consult.2efb09cf8d17bbb4a87a.png",
+    "static/media/newtork.png": "/crystal-consult/static/media/newtork.c5c121ba0de215671516.png",
+    "static/media/0.jpg": "/crystal-consult/static/media/0.07fbb0daaa3cf432073d.jpg",
+    "static/media/8.jpg": "/crystal-consult/static/media/8.13155c0e7b2ebf716e9c.jpg",
+    "static/media/2.jpg": "/crystal-consult/static/media/2.7d811d2d35a07e173446.jpg",
+    "static/media/5.jpg": "/crystal-consult/static/media/5.48586c81db3ac933007b.jpg",
+    "static/media/4.jpg": "/crystal-consult/static/media/4.67527e3dfc5512f856a3.jpg",
+    "static/media/6.jpg": "/crystal-consult/static/media/6.527cec883ece1813394e.jpg",
+    "static/media/card2.jpg": "/crystal-consult/static/media/card2.6d7d5e3f246ac012cccc.jpg",
+    "static/media/card3.jpg": "/crystal-consult/static/media/card3.1e9fb47c02f99e4e4af1.jpg",
+    "static/media/card1.jpg": "/crystal-consult/static/media/card1.20fd097a29c1bf692b97.jpg",
+    "static/media/antenna.jpg": "/crystal-consult/static/media/antenna.15970fd65f746328b849.jpg",
+    "index.html": "/crystal-consult/index.html",
+    "main.a6d1e505.css.map": "/crystal-consult/static/css/main.a6d1e505.css.map",
+    "main.9b4d425f.js.map": "/crystal-consult/static/js/main.9b4d425f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d1e505.css",
+    "static/js/main.9b4d425f.js"
+  ]
+}
