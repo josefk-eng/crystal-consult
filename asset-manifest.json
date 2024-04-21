@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/crystal-consult/static/css/main.6ece31c2.css",
+    "main.css": "/crystal-consult/static/css/main.a6d1e505.css",
     "main.js": "/crystal-consult/static/js/main.2cdd12c7.js",
     "static/media/generator.png": "/crystal-consult/static/media/generator.0454447dfe86d8220a11.png",
     "static/media/consult.png": "/crystal-consult/static/media/consult.2efb09cf8d17bbb4a87a.png",
@@ -16,11 +16,11 @@
     "static/media/card1.jpg": "/crystal-consult/static/media/card1.20fd097a29c1bf692b97.jpg",
     "static/media/antenna.jpg": "/crystal-consult/static/media/antenna.15970fd65f746328b849.jpg",
     "index.html": "/crystal-consult/index.html",
-    "main.6ece31c2.css.map": "/crystal-consult/static/css/main.6ece31c2.css.map",
+    "main.a6d1e505.css.map": "/crystal-consult/static/css/main.a6d1e505.css.map",
     "main.2cdd12c7.js.map": "/crystal-consult/static/js/main.2cdd12c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ece31c2.css",
+    "static/css/main.a6d1e505.css",
     "static/js/main.2cdd12c7.js"
   ]
 }
