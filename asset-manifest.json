@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/crystal-consult/static/css/main.9dcd6dce.css",
-    "main.js": "/crystal-consult/static/js/main.7993177d.js",
+    "main.js": "/crystal-consult/static/js/main.39b21751.js",
     "static/media/generator.png": "/crystal-consult/static/media/generator.0454447dfe86d8220a11.png",
     "static/media/consult.png": "/crystal-consult/static/media/consult.2efb09cf8d17bbb4a87a.png",
+    "static/media/card3.png": "/crystal-consult/static/media/card3.3d38055b6ad9e26601e3.png",
+    "static/media/card1.png": "/crystal-consult/static/media/card1.14b98fb24b329caef4e6.png",
+    "static/media/card2.png": "/crystal-consult/static/media/card2.e131efcaca02871e8c54.png",
     "static/media/newtork.png": "/crystal-consult/static/media/newtork.c5c121ba0de215671516.png",
     "static/media/0.jpg": "/crystal-consult/static/media/0.07fbb0daaa3cf432073d.jpg",
     "static/media/8.jpg": "/crystal-consult/static/media/8.13155c0e7b2ebf716e9c.jpg",
@@ -11,16 +14,13 @@
     "static/media/5.jpg": "/crystal-consult/static/media/5.48586c81db3ac933007b.jpg",
     "static/media/4.jpg": "/crystal-consult/static/media/4.67527e3dfc5512f856a3.jpg",
     "static/media/6.jpg": "/crystal-consult/static/media/6.527cec883ece1813394e.jpg",
-    "static/media/card2.jpg": "/crystal-consult/static/media/card2.6d7d5e3f246ac012cccc.jpg",
-    "static/media/card3.jpg": "/crystal-consult/static/media/card3.1e9fb47c02f99e4e4af1.jpg",
-    "static/media/card1.jpg": "/crystal-consult/static/media/card1.20fd097a29c1bf692b97.jpg",
     "static/media/antenna.jpg": "/crystal-consult/static/media/antenna.15970fd65f746328b849.jpg",
     "index.html": "/crystal-consult/index.html",
     "main.9dcd6dce.css.map": "/crystal-consult/static/css/main.9dcd6dce.css.map",
-    "main.7993177d.js.map": "/crystal-consult/static/js/main.7993177d.js.map"
+    "main.39b21751.js.map": "/crystal-consult/static/js/main.39b21751.js.map"
   },
   "entrypoints": [
     "static/css/main.9dcd6dce.css",
-    "static/js/main.7993177d.js"
+    "static/js/main.39b21751.js"
   ]
 }
